@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f693ec03.css","mappings":"AAAA,UACE,QAAS,CACT,SACF,CCHA,qBAEE,YAAa,CADb,WAEF","sources":["index.css","assets/style/excalidraw.css"],"sourcesContent":["html,body{\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n#app{\r\n  width: 100vw;\r\n  height: 100vh;\r\n}",".div_excalidraw{\r\n  width: 100vw;\r\n  height: 100vh;\r\n}"],"names":[],"sourceRoot":""}

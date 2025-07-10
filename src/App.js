@@ -1,12 +1,9 @@
-import { Excalidraw } from "@excalidraw/excalidraw";
-import "./App.css"
+import ExcalidrawCom from './components/excalidrawCom';  // 列表组件
 
 function App() {
   return (
     <div className="App">
-      <div className="excalidraw">
-        <Excalidraw />
-      </div>
+      <ExcalidrawCom></ExcalidrawCom>
     </div>
   );
 }
